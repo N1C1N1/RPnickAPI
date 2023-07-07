@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: RPnickAPI
+Version: 1.0.0
+Summary: Генератор РП ников SAMP
+Home-page: https://github.com/N1C1N1/RPnickAPI
+Download-URL: https://github.com/N1C1N1/RPnickAPI/archive/v1.0.0.zip
+Author: N1C1
+Author-email: rydsa708998@gmail.com
+Requires: bs4
+Requires: requests
+
+Генератор РП ников для проектов SAMP, сайт который генерирует: "http://rp-nicks.aa-roleplay.ru/"

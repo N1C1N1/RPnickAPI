@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+RPnickAPI/RPnickAPI.py
+RPnickAPI/__init__.py
+RPnickAPI.egg-info/PKG-INFO
+RPnickAPI.egg-info/SOURCES.txt
+RPnickAPI.egg-info/dependency_links.txt
+RPnickAPI.egg-info/top_level.txt
