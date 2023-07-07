@@ -1,0 +1,9 @@
+- name:SampNickGenerator-python
+  # You may pin to the exact commit or the version.
+  # uses: shashi278/deploy-python-pkg@0dd6586268949497544616b3febe675bc102487c
+  uses: N1C1N1/SampNickGenerator-python
+  with:
+    # PyPI Username
+    USERNAME: N1C1
+    # PyPI API token
+    TOKEN: pypi-AgEIcHlwaS5vcmcCJGVmYjY1ODQyLWY0MzAtNDg2OS1hNmVlLWY2YjU1YWEwMTcwNwACKlszLCIwMjAxOGJkZi04YjIwLTQ1NjMtOWI3MS0yNTRiYzI3YzYxZjYiXQAABiByaFzCA2W87dpqxtIkDmPmBYx2oPHJB1BgTZqUK2UmCA
