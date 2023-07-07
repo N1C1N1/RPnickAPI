@@ -5,7 +5,7 @@
 ```batch
 pip install RPnickAPI
 ```
-А есле нет то откройте releases и скачавте RPnickAPI.py.
+А есле нет то откройте releases и скачавте RPnickAPI.py и закиньте в папку с вашим кодом.
 
 Юзабле:
 
