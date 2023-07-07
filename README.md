@@ -18,4 +18,4 @@ from RPnickAPI import nick
 nick = nick.GenerateNick()
 print(nick) # Felix_Griesemer
 ```
-<h2>документация: https://sites.google.com/view/hellobyn1c1n1/home</h2>
+<h2>документация: https://sites.google.com/view/hellobyn1c1n1/programs/rpnickapi-doc</h2>
