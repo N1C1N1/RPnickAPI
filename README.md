@@ -15,6 +15,6 @@ pip install RPnickAPI
 
 ```python
 from RPnickAPI import nick
-nick = nick.GenerateNick(gender = nick.GenderType.FEMALE)
+nick = nick.GenerateNick()
 print(nick) # Felix_Griesemer
 ```
