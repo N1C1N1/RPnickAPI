@@ -8,7 +8,8 @@ pip install rpnickapi
 
 Юзабле:
 
-![Пример генерации](https://github.com/N1C1N1/RPnickAPI/assets/116889092/fe3bae70-88a6-4ed6-916a-646455c3345c)
+![Пример](https://github.com/N1C1N1/RPnickAPI/assets/116889092/d35fb361-d1a5-4635-83c1-6d748d3dfb81)
+
 
 саурс коде:
 
