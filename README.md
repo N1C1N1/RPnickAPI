@@ -3,7 +3,7 @@
 
 установка:
 ```batch
-pip install RPnickAPI
+pip install rpnickapi
 ```
 
 Юзабле:
